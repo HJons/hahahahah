@@ -1,0 +1,10 @@
+/**index.wxss**/
+.c{
+  height: 100vh;
+}
+
+.a{
+  width: 100%;
+  height: 100%;
+  
+}

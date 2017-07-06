@@ -1,0 +1,16 @@
+<view>
+<button bindtap="hhhh">看完记得点我</button>
+不要一直盯着前面的看  我们要看店有意义的，比如：1、《O’Reilly精品图书系列:JavaScript权威指南(第6版)》 
+2、《JavaScript设计模式》
+3、《WebKit技术内幕》
+4、《JavaScript框架高级编程:应用Prototype YUI Ext JS Dojo MooTools》
+5、《用AngularJS开发下一代Web应用》
+6、《图灵程序设计丛书:HTML5与CSS3设计模式》
+7、《Web开发技术丛书:深入理解Bootstrap》
+8、《高流量网站CSS开发技术》
+9、《CSS设计彻底研究》 这个一定要
+10、《Web开发技术丛书:深入理解Bootstrap》
+11、可以找一些专门讲SASS的书，但是我没找到
+12、《CSS权威指南(第3版)》
+
+</view>

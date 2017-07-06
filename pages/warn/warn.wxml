@@ -1,0 +1,12 @@
+<view class="c">
+
+<button bindtap="hhhh">继续</button>
+种子网址：
+www.baidu.com
+www.sogou.com
+www.qq.com
+www.QAQ.com
+www.360.com
+www.yahoo.co.jp
+www.youdao.com
+</view>

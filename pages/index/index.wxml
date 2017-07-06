@@ -1,0 +1,20 @@
+<!--index.wxml-->
+<view class="c">
+
+<button bindtap="hhhh">点我有惊喜</button>
+<map 
+    class="a"
+    longitude="{{lo}}" 
+    latitude="{{la}}"
+    
+    scale="{{a}}"
+    
+    controls="{{controls}}"
+    markers = "{{m}}"
+    bindcontroltap="controltap"
+
+>
+</map>
+
+
+</view>
